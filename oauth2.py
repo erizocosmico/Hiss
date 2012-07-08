@@ -2,6 +2,7 @@
 The MIT License
 
 Copyright (c) 2007-2010 Leah Culver, Joe Stump, Mark Paschal, Vic Fryzel
+<https://github.com/simplegeo/python-oauth2>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
