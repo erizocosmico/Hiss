@@ -30,3 +30,9 @@ Hiss commands
 * block: blocks an user.
 * report: reports an user for spam.
 * exit: exits Hiss.
+
+Roadmap
+====
+
+* Add color schemes (dark/light).
+* Add support for spanish language.
