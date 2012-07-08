@@ -8,8 +8,8 @@ Configuring Hiss
 
 Hiss must be configured before you use it. First, you have to edit *hiss_config.py* and enter your consumer and consumer secret keys (you need to create a twitter app before use this client).
 There are other options you can change:
--num_tweets: The number of tweets to retrieve from the timeline. Value must be an integer lower than 200.
--use_dark_style: if is set to True it will use the dark scheme, for dark terminals. If set to False it will use the light scheme. *This feature is not implemented yet*.
+* num_tweets: The number of tweets to retrieve from the timeline. Value must be an integer lower than 200.
+* use_dark_style: if is set to True it will use the dark scheme, for dark terminals. If set to False it will use the light scheme. *This feature is not implemented yet*.
 
 Running Hiss
 ====
@@ -21,12 +21,12 @@ Once you have done that, you will be able to access twitter from your terminal.
 Hiss commands
 ====
 
--t: send a tweet and loads new tweets.
--to: send a tweet but not loads the timeline.
--rt: retweets a tweet.
--fav: favs a tweet.
--reply: send a reply to another tweet. Remember to include @username_to_reply if you want it to work.
--load: loads the timeline.
--block: blocks an user.
--report: reports an user for spam.
--exit: exits Hiss.
+* t: send a tweet and loads new tweets.
+* to: send a tweet but not loads the timeline.
+* rt: retweets a tweet.
+* fav: favs a tweet.
+* reply: send a reply to another tweet. Remember to include @username_to_reply if you want it to work.
+* load: loads the timeline.
+* block: blocks an user.
+* report: reports an user for spam.
+* exit: exits Hiss.
