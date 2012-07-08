@@ -36,3 +36,8 @@ Roadmap
 
 * Add color schemes (dark/light).
 * Add support for spanish language.
+
+Disclaimer
+====
+
+Hiss uses a library called oauth2 licensed with the MIT license. You can find this library here: https://github.com/simplegeo/python-oauth2
